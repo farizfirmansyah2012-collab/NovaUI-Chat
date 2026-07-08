@@ -45,8 +45,8 @@ button{font-family:inherit;cursor:pointer;background:none;border:none;color:inhe
 /* ===== APP SHELL ===== */
 .app{
   display:flex;
-  height:100vh;
-  width:100vw;
+  min-height:100dvh;
+  width:100%;
   overflow:hidden;
 }
 .only-mobile{display:none;}
